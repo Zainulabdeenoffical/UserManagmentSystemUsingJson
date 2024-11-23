@@ -8,14 +8,14 @@ A robust and scalable User Management System built using ASP.NET Core, designed 
 
 ## 📋 Table of Contents
 
-- [🌟 About](#🌟-about)
-- [🎯 Features](#🎯-features)
-- [🛠️ Prerequisites](#🛠️-prerequisites)
-- [📦 Installation](#📦-installation)
-- [📖 Usage](#📖-usage)
-- [⚠️ File Size Warning](#⚠️-file-size-warning)
-- [🤝 Contributing](#🤝-contributing)
-- [📜 License](#📜-license)
+- [🌟 About](#-about)
+- [🎯 Features](#-features)
+- [🛠️ Prerequisites](#️-prerequisites)
+- [📦 Installation](#-installation)
+- [📖 Usage](#-usage)
+- [⚠️ File Size Warning](#️-file-size-warning)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
@@ -147,5 +147,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ✨ Built with ❤️ by [Zainulabdeenoffical](https://github.com/Zainulabdeenoffical)  
+
  
 
